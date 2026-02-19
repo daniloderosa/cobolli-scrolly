@@ -2,7 +2,7 @@
 
 **Scrollytelling interattivo sull'ascesa di Flavio Cobolli nel tennis mondiale.**
 
-Live: https://daniloflorenzano.github.io/cobolli-scrolly/
+Live: https://daniloderosa.github.io/cobolli-scrolly/
 
 ---
 
