@@ -212,7 +212,7 @@
 
   .hero-title {
     font-family: 'Playfair Display', serif;
-    font-size: clamp(3.5rem, 10vw, 7.5rem);
+    font-size: clamp(2.33rem, 10vw, 5rem);
     font-weight: 900;
     line-height: 0.95;
     margin-bottom: 1.5rem;
@@ -351,7 +351,7 @@
 
   .outro-title {
     font-family: 'Playfair Display', serif;
-    font-size: clamp(2rem, 5vw, 3.5rem);
+    font-size: clamp(1.33rem, 5vw, 2.33rem);
     font-weight: 700;
     color: var(--text);
     margin-bottom: 3rem;
@@ -377,7 +377,7 @@
 
   .stat-val {
     font-family: 'Playfair Display', serif;
-    font-size: clamp(2rem, 4vw, 2.8rem);
+    font-size: clamp(1.33rem, 4vw, 1.87rem);
     font-weight: 700;
     line-height: 1;
   }
